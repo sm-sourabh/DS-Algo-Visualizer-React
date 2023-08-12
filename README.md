@@ -144,8 +144,6 @@ Time Complexity is n^2 because here i used Two itarations .
 
 Deployment Server :- <span> netlify </span>
 
-<a href="https://algo-visualizer-wasim.netlify.app">Click me to See </a>
-
 <!-- ### DEVELOPER
 
 <table>
